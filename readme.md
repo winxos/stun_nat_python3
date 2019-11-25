@@ -26,4 +26,4 @@ NAT 原理和打洞参考：
 
 https://blog.csdn.net/bytxl/article/details/14516779
 
-https://www.cnblogs.com/tingguoguoyo/p/10955488.html 
+http://www.blogjava.net/linli/archive/2014/10/23/418968.html
